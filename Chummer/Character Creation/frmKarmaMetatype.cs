@@ -228,7 +228,8 @@ namespace Chummer
                 XmlDocument objXmlQualityDocument = XmlManager.Instance.Load("qualities.xml");
 				XmlNode objXmlMetatype = objXmlDocument.SelectSingleNode("/chummer/metatypes/metatype[name = \"" + lstMetatypes.SelectedValue + "\"]");
 
-				lblBP.Text = objXmlMetatype["karma"].InnerText;
+                if (objXmlMetatype["karma"] != null)
+                    lblBP.Text = objXmlMetatype["karma"].InnerText;
 				if (objXmlMetatype["forcecreature"] == null)
 				{
 					lblBOD.Text = string.Format("{0}/{1} ({2})", objXmlMetatype["bodmin"].InnerText, objXmlMetatype["bodmax"].InnerText, objXmlMetatype["bodaug"].InnerText);

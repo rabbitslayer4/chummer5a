@@ -1948,7 +1948,7 @@ namespace Chummer
 			this.lblSpellDefenceIndirectDodgeLabel.Name = "lblSpellDefenceIndirectDodgeLabel";
 			this.lblSpellDefenceIndirectDodgeLabel.Size = new System.Drawing.Size(77, 13);
 			this.lblSpellDefenceIndirectDodgeLabel.TabIndex = 25;
-			this.lblSpellDefenceIndirectDodgeLabel.Tag = "Label_SpellDefenceIndirectDodge";
+			//this.lblSpellDefenceIndirectDodgeLabel.Tag = "Label_SpellDefenceIndirectDodge";
 			this.lblSpellDefenceIndirectDodgeLabel.Text = "Indirect Dodge";
 			this.tipTooltip.SetToolTip(this.lblSpellDefenceIndirectDodgeLabel, "Physical CM is calculated as 8 + (BOD / 2).");
 			// 
@@ -1959,7 +1959,7 @@ namespace Chummer
 			this.lblSpellDefenceIndirectSoakLabel.Name = "lblSpellDefenceIndirectSoakLabel";
 			this.lblSpellDefenceIndirectSoakLabel.Size = new System.Drawing.Size(70, 13);
 			this.lblSpellDefenceIndirectSoakLabel.TabIndex = 27;
-			this.lblSpellDefenceIndirectSoakLabel.Tag = "Label_SpellDefenceIndirect";
+			//this.lblSpellDefenceIndirectSoakLabel.Tag = "Label_SpellDefenceIndirect";
 			this.lblSpellDefenceIndirectSoakLabel.Text = "Indirect Soak";
 			this.tipTooltip.SetToolTip(this.lblSpellDefenceIndirectSoakLabel, "Physical CM is calculated as 8 + (BOD / 2).");
 			// 
@@ -1970,7 +1970,7 @@ namespace Chummer
 			this.lblSpellDefenceDirectSoakManaLabel.Name = "lblSpellDefenceDirectSoakManaLabel";
 			this.lblSpellDefenceDirectSoakManaLabel.Size = new System.Drawing.Size(99, 13);
 			this.lblSpellDefenceDirectSoakManaLabel.TabIndex = 29;
-			this.lblSpellDefenceDirectSoakManaLabel.Tag = "Label_SpellDefenceDirectSoakMana";
+			//this.lblSpellDefenceDirectSoakManaLabel.Tag = "Label_SpellDefenceDirectSoakMana";
 			this.lblSpellDefenceDirectSoakManaLabel.Text = "Direct Soak - Mana";
 			this.tipTooltip.SetToolTip(this.lblSpellDefenceDirectSoakManaLabel, "Physical CM is calculated as 8 + (BOD / 2).");
 			// 
@@ -1981,7 +1981,7 @@ namespace Chummer
 			this.lblSpellDefenceDirectSoakPhysicalLabel.Name = "lblSpellDefenceDirectSoakPhysicalLabel";
 			this.lblSpellDefenceDirectSoakPhysicalLabel.Size = new System.Drawing.Size(111, 13);
 			this.lblSpellDefenceDirectSoakPhysicalLabel.TabIndex = 31;
-			this.lblSpellDefenceDirectSoakPhysicalLabel.Tag = "Label_SpellDefenceDirectSoakPhysical";
+			//this.lblSpellDefenceDirectSoakPhysicalLabel.Tag = "Label_SpellDefenceDirectSoakPhysical";
 			this.lblSpellDefenceDirectSoakPhysicalLabel.Text = "Direct Soak - Physical";
 			this.tipTooltip.SetToolTip(this.lblSpellDefenceDirectSoakPhysicalLabel, "Physical CM is calculated as 8 + (BOD / 2).");
 			// 
@@ -1992,7 +1992,7 @@ namespace Chummer
 			this.lblSpellDefenceDecAttBODLabel.Name = "lblSpellDefenceDecAttBODLabel";
 			this.lblSpellDefenceDecAttBODLabel.Size = new System.Drawing.Size(127, 13);
 			this.lblSpellDefenceDecAttBODLabel.TabIndex = 35;
-			this.lblSpellDefenceDecAttBODLabel.Tag = "Label_SpellDefenceDecAttBOD";
+			//this.lblSpellDefenceDecAttBODLabel.Tag = "Label_SpellDefenceDecAttBOD";
 			this.lblSpellDefenceDecAttBODLabel.Text = "Decrease Attribute (BOD)";
 			this.tipTooltip.SetToolTip(this.lblSpellDefenceDecAttBODLabel, "Physical CM is calculated as 8 + (BOD / 2).");
 			// 
@@ -2003,7 +2003,7 @@ namespace Chummer
 			this.lblSpellDefenceDetectionLabel.Name = "lblSpellDefenceDetectionLabel";
 			this.lblSpellDefenceDetectionLabel.Size = new System.Drawing.Size(84, 13);
 			this.lblSpellDefenceDetectionLabel.TabIndex = 33;
-			this.lblSpellDefenceDetectionLabel.Tag = "Label_SpellDefenceDetection";
+			//this.lblSpellDefenceDetectionLabel.Tag = "Label_SpellDefenceDetection";
 			this.lblSpellDefenceDetectionLabel.Text = "Detection Spells";
 			this.tipTooltip.SetToolTip(this.lblSpellDefenceDetectionLabel, "Physical CM is calculated as 8 + (BOD / 2).");
 			// 
@@ -2014,7 +2014,7 @@ namespace Chummer
 			this.lblSpellDefenceDecAttAGILabel.Name = "lblSpellDefenceDecAttAGILabel";
 			this.lblSpellDefenceDecAttAGILabel.Size = new System.Drawing.Size(122, 13);
 			this.lblSpellDefenceDecAttAGILabel.TabIndex = 41;
-			this.lblSpellDefenceDecAttAGILabel.Tag = "Label_SpellDefenceDecAttAGI";
+			//this.lblSpellDefenceDecAttAGILabel.Tag = "Label_SpellDefenceDecAttAGI";
 			this.lblSpellDefenceDecAttAGILabel.Text = "Decrease Attribute (AGI)";
 			this.tipTooltip.SetToolTip(this.lblSpellDefenceDecAttAGILabel, "Physical CM is calculated as 8 + (BOD / 2).");
 			// 
@@ -2025,7 +2025,7 @@ namespace Chummer
 			this.lblSpellDefenceDecAttSTRLabel.Name = "lblSpellDefenceDecAttSTRLabel";
 			this.lblSpellDefenceDecAttSTRLabel.Size = new System.Drawing.Size(126, 13);
 			this.lblSpellDefenceDecAttSTRLabel.TabIndex = 43;
-			this.lblSpellDefenceDecAttSTRLabel.Tag = "Label_SpellDefenceDecAttSTR";
+			//this.lblSpellDefenceDecAttSTRLabel.Tag = "Label_SpellDefenceDecAttSTR";
 			this.lblSpellDefenceDecAttSTRLabel.Text = "Decrease Attribute (STR)";
 			this.tipTooltip.SetToolTip(this.lblSpellDefenceDecAttSTRLabel, "Physical CM is calculated as 8 + (BOD / 2).");
 			// 
@@ -2036,7 +2036,7 @@ namespace Chummer
 			this.lblSpellDefenceDecAttREALabel.Name = "lblSpellDefenceDecAttREALabel";
 			this.lblSpellDefenceDecAttREALabel.Size = new System.Drawing.Size(126, 13);
 			this.lblSpellDefenceDecAttREALabel.TabIndex = 42;
-			this.lblSpellDefenceDecAttREALabel.Tag = "Label_SpellDefenceDecAttREA";
+			//this.lblSpellDefenceDecAttREALabel.Tag = "Label_SpellDefenceDecAttREA";
 			this.lblSpellDefenceDecAttREALabel.Text = "Decrease Attribute (REA)";
 			this.tipTooltip.SetToolTip(this.lblSpellDefenceDecAttREALabel, "Physical CM is calculated as 8 + (BOD / 2).");
 			// 
@@ -2047,7 +2047,7 @@ namespace Chummer
 			this.lblSpellDefenceDecAttWILLabel.Name = "lblSpellDefenceDecAttWILLabel";
 			this.lblSpellDefenceDecAttWILLabel.Size = new System.Drawing.Size(124, 13);
 			this.lblSpellDefenceDecAttWILLabel.TabIndex = 47;
-			this.lblSpellDefenceDecAttWILLabel.Tag = "Label_SpellDefenceDecAttWIL";
+			//this.lblSpellDefenceDecAttWILLabel.Tag = "Label_SpellDefenceDecAttWIL";
 			this.lblSpellDefenceDecAttWILLabel.Text = "Decrease Attribute (WIL)";
 			this.tipTooltip.SetToolTip(this.lblSpellDefenceDecAttWILLabel, "Physical CM is calculated as 8 + (BOD / 2).");
 			// 
@@ -2058,7 +2058,7 @@ namespace Chummer
 			this.lblSpellDefenceDecAttLOGLabel.Name = "lblSpellDefenceDecAttLOGLabel";
 			this.lblSpellDefenceDecAttLOGLabel.Size = new System.Drawing.Size(126, 13);
 			this.lblSpellDefenceDecAttLOGLabel.TabIndex = 46;
-			this.lblSpellDefenceDecAttLOGLabel.Tag = "Label_SpellDefenceDecAttLOG";
+			//this.lblSpellDefenceDecAttLOGLabel.Tag = "Label_SpellDefenceDecAttLOG";
 			this.lblSpellDefenceDecAttLOGLabel.Text = "Decrease Attribute (LOG)";
 			this.tipTooltip.SetToolTip(this.lblSpellDefenceDecAttLOGLabel, "Physical CM is calculated as 8 + (BOD / 2).");
 			// 
@@ -2069,7 +2069,7 @@ namespace Chummer
 			this.lblSpellDefenceDecAttINTLabel.Name = "lblSpellDefenceDecAttINTLabel";
 			this.lblSpellDefenceDecAttINTLabel.Size = new System.Drawing.Size(122, 13);
 			this.lblSpellDefenceDecAttINTLabel.TabIndex = 45;
-			this.lblSpellDefenceDecAttINTLabel.Tag = "Label_SpellDefenceDecAttINT";
+			//this.lblSpellDefenceDecAttINTLabel.Tag = "Label_SpellDefenceDecAttINT";
 			this.lblSpellDefenceDecAttINTLabel.Text = "Decrease Attribute (INT)";
 			this.tipTooltip.SetToolTip(this.lblSpellDefenceDecAttINTLabel, "Physical CM is calculated as 8 + (BOD / 2).");
 			// 
@@ -2080,7 +2080,7 @@ namespace Chummer
 			this.lblSpellDefenceDecAttCHALabel.Name = "lblSpellDefenceDecAttCHALabel";
 			this.lblSpellDefenceDecAttCHALabel.Size = new System.Drawing.Size(126, 13);
 			this.lblSpellDefenceDecAttCHALabel.TabIndex = 44;
-			this.lblSpellDefenceDecAttCHALabel.Tag = "Label_SpellDefenceDecAttCHA";
+			//this.lblSpellDefenceDecAttCHALabel.Tag = "Label_SpellDefenceDecAttCHA";
 			this.lblSpellDefenceDecAttCHALabel.Text = "Decrease Attribute (CHA)";
 			this.tipTooltip.SetToolTip(this.lblSpellDefenceDecAttCHALabel, "Physical CM is calculated as 8 + (BOD / 2).");
 			// 
@@ -2091,7 +2091,7 @@ namespace Chummer
 			this.lbllSpellDefenceManipPhysicalLabel.Name = "lbllSpellDefenceManipPhysicalLabel";
 			this.lbllSpellDefenceManipPhysicalLabel.Size = new System.Drawing.Size(115, 13);
 			this.lbllSpellDefenceManipPhysicalLabel.TabIndex = 59;
-			this.lbllSpellDefenceManipPhysicalLabel.Tag = "Label_lSpellDefenceManipPhysical";
+			//this.lbllSpellDefenceManipPhysicalLabel.Tag = "Label_lSpellDefenceManipPhysical";
 			this.lbllSpellDefenceManipPhysicalLabel.Text = "Manipulation - Physical";
 			this.tipTooltip.SetToolTip(this.lbllSpellDefenceManipPhysicalLabel, "Physical CM is calculated as 8 + (BOD / 2).");
 			// 
@@ -2102,7 +2102,7 @@ namespace Chummer
 			this.lblSpellDefenceManipMentalLabel.Name = "lblSpellDefenceManipMentalLabel";
 			this.lblSpellDefenceManipMentalLabel.Size = new System.Drawing.Size(108, 13);
 			this.lblSpellDefenceManipMentalLabel.TabIndex = 57;
-			this.lblSpellDefenceManipMentalLabel.Tag = "Label_lSpellDefenceManipMental";
+			//this.lblSpellDefenceManipMentalLabel.Tag = "Label_lSpellDefenceManipMental";
 			this.lblSpellDefenceManipMentalLabel.Text = "Manipulation - Mental";
 			this.tipTooltip.SetToolTip(this.lblSpellDefenceManipMentalLabel, "Physical CM is calculated as 8 + (BOD / 2).");
 			// 
@@ -2113,7 +2113,7 @@ namespace Chummer
 			this.lblSpellDefenceIllusionPhysicalLabel.Name = "lblSpellDefenceIllusionPhysicalLabel";
 			this.lblSpellDefenceIllusionPhysicalLabel.Size = new System.Drawing.Size(87, 13);
 			this.lblSpellDefenceIllusionPhysicalLabel.TabIndex = 55;
-			this.lblSpellDefenceIllusionPhysicalLabel.Tag = "Label_SpellDefenceIllusionPhysical";
+			//this.lblSpellDefenceIllusionPhysicalLabel.Tag = "Label_SpellDefenceIllusionPhysical";
 			this.lblSpellDefenceIllusionPhysicalLabel.Text = "Illusion - Physical";
 			this.tipTooltip.SetToolTip(this.lblSpellDefenceIllusionPhysicalLabel, "Physical CM is calculated as 8 + (BOD / 2).");
 			// 
@@ -2124,7 +2124,7 @@ namespace Chummer
 			this.lblSpellDefenceIllusionManaLabel.Name = "lblSpellDefenceIllusionManaLabel";
 			this.lblSpellDefenceIllusionManaLabel.Size = new System.Drawing.Size(75, 13);
 			this.lblSpellDefenceIllusionManaLabel.TabIndex = 53;
-			this.lblSpellDefenceIllusionManaLabel.Tag = "Label_SpellDefenceIllusionMana";
+			//this.lblSpellDefenceIllusionManaLabel.Tag = "Label_SpellDefenceIllusionMana";
 			this.lblSpellDefenceIllusionManaLabel.Text = "Illusion - Mana";
 			this.tipTooltip.SetToolTip(this.lblSpellDefenceIllusionManaLabel, "Physical CM is calculated as 8 + (BOD / 2).");
 			// 
@@ -2136,7 +2136,7 @@ namespace Chummer
 			this.lblCounterspellingDiceLabel.Name = "lblCounterspellingDiceLabel";
 			this.lblCounterspellingDiceLabel.Size = new System.Drawing.Size(124, 13);
 			this.lblCounterspellingDiceLabel.TabIndex = 62;
-			this.lblCounterspellingDiceLabel.Tag = "Label_CounterspellingDice";
+			//this.lblCounterspellingDiceLabel.Tag = "Label_CounterspellingDice";
 			this.lblCounterspellingDiceLabel.Text = "Counterspelling Dice";
 			this.tipTooltip.SetToolTip(this.lblCounterspellingDiceLabel, "Physical CM is calculated as 8 + (BOD / 2).");
 			// 
